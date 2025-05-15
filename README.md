@@ -92,8 +92,8 @@ A modern, USB-powered capacitive volume controller that uses a single touchpad a
 
 ## 🧑‍💻 Author
 
-Designed by [Your Name] — May 2025  
-Built in KiCad 7 — RP2040-powered — USB-C elegance
+Designed by Akmal Nazir — May 2025  
+Built in KiCad 8 — RP2040-powered — USB-C elegance
 
 ---
 
